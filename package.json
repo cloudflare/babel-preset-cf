@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-cf",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Babel preset for CloudFlare",
   "author": "James Kyle <jkyle@cloudflare.com>",
   "license": "BSD-3",
