@@ -23,6 +23,7 @@
     "babel-plugin-transform-es2015-spread": "^6.1.4",
     "babel-plugin-transform-es2015-template-literals": "^6.1.4",
     "babel-plugin-transform-export-extensions": "^6.1.4",
+    "babel-plugin-transform-object-rest-spread": "^6.3.13",
     "babel-preset-react": "^6.1.4"
   }
 }

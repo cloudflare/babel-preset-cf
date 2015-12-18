@@ -19,6 +19,7 @@ module.exports = {
     require("babel-plugin-transform-es2015-parameters"),
     require("babel-plugin-transform-es2015-destructuring"),
     require("babel-plugin-transform-es2015-block-scoping"),
-    [require("babel-plugin-transform-es2015-modules-commonjs"), { loose: true }]
+    [require("babel-plugin-transform-es2015-modules-commonjs"), { loose: true }],
+    require("babel-plugin-transform-object-rest-spread")
   ]
 };
