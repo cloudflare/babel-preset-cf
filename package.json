@@ -6,6 +6,7 @@
   "license": "BSD-3",
   "main": "index.js",
   "dependencies": {
+    "babel-plugin-react-pure-components": "^2.1.1",
     "babel-plugin-transform-class-properties": "^6.1.4",
     "babel-plugin-transform-es2015-arrow-functions": "^6.1.4",
     "babel-plugin-transform-es2015-block-scoped-functions": "^6.1.4",

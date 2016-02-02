@@ -3,6 +3,7 @@ module.exports = {
     require("babel-preset-react")
   ],
   plugins: [
+    require("babel-plugin-react-pure-components"),
     require("babel-plugin-transform-export-extensions"),
     require("babel-plugin-transform-class-properties"),
     [require("babel-plugin-transform-es2015-template-literals"), { loose: true }],
